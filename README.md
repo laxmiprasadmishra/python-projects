@@ -2,7 +2,9 @@
 
 LifeCare+ is a modern, console-based Smart Health System for managing doctors, patients, and hospital appointments. 
 
-![LifeCare+ Terminal Interface](https://github.com/laxmiprasadmishra/python-projects/blob/e9ed51319b3a3d0c3b099631c8b0890b01f5c833/Screenshot%202026-07-17%20221536.png(https://github.com/laxmiprasadmishra/python-projects/blob/3cc344447c83e85da46cd9470fc82ca729cc7fef/Screenshot%202026-07-17%20221451.png)) 
+![LifeCare+ Terminal Interface](https://github.com/laxmiprasadmishra/python-projects/blob/e9ed51319b3a3d0c3b099631c8b0890b01f5c833/Screenshot%202026-07-17%20221536.png) 
+![LifeCare+ Terminal Interface](https://github.com/laxmiprasadmishra/python-projects/blob/3cc344447c83e85da46cd9470fc82ca729cc7fef/Screenshot%202026-07-17%20221451.png)
+
 
 ## Features
 - **Data Persistence**: Uses `hospital_data.json` to safely store all added records (doctors, patients, appointments) across sessions.
