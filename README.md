@@ -2,7 +2,7 @@
 
 LifeCare+ is a modern, console-based Smart Health System for managing doctors, patients, and hospital appointments. 
 
-![LifeCare+ Terminal Interface](demo.png)
+![LifeCare+ Terminal Interface](Screenshot 2026-07-17 221451.png)
 
 ## Features
 - **Data Persistence**: Uses `hospital_data.json` to safely store all added records (doctors, patients, appointments) across sessions.
